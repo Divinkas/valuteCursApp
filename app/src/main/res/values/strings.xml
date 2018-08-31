@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Курс валют P24</string>
+
+    <string name="usa">Доллар</string>
+    <string name="eur">Евро</string>
+    <string name="rub">Рубль</string>
+    <string name="uan">Гривна</string>
+
+    <string name="sale">Продажа:</string>
+    <string name="purchase">Покупка:</string>
+</resources>
